@@ -1,19 +1,3 @@
-github 配置文件 markdown 生成器徽标
-GitHub 配置文件自述文件生成器
-星这个回购
-15955
-GitHub 上的分支
-4408
-
-返回编辑
-
-复制降价
-
-下载降价
-
-下载备份
-
-预览
 <h1 align="center">嗨👋，我是Sxx1314</h1>
 <h3 align="center">我是来自火星的技术开发人员。</h3>
 
@@ -59,28 +43,3 @@ h3 align="left">语言和工具：</h3>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sxx1314&show_icons=true&locale=en" alt="sxx1314" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sxx1314&" alt="sxx1314" /></p>
-
-支持 🙏
-您是否正在使用该工具并乐于使用它来创建您的 GitHub 配置文件？
-您的大力支持让其他人可以免费使用此类开源工具。
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github 配置文件 markdown 生成器徽标
-GitHub 配置文件自述文件生成器
-页数
-插件
-支持
-关于
-更多的
-Github
-发布
-问题
-拉取请求
-加入社区
-社区的不和
-在印度开发🇮🇳
-给我买杯咖啡
